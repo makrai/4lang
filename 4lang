@@ -816,7 +816,7 @@ college	egyetem	universitas	uniwersytet	572	u	N	university
 colour	szi1n	colour	kolor	2207	u	N	sensation, light/739, red IS_A, green IS_A, blue IS_A	
 colour	szinez	colouro	kolorowac1	2219	u	V		
 comb	fe1su3	pecten	grzebien1	746		N	artefact, CAUSE[hair/3359[tidy]], HAS tooth	
-comb	le1p	favus	plaster	1504		N		all xml uses are „fe1su2”, 746
+comb	le1p	favus	plaster	1504		N		see 746 "fe1su2"
 combine	vegyi1t	misceo	mieszac1	2603		V	=PAT[more], after(together)	
 come	jo2n	venio	przychodzic1	1195	u	U	move, =AGT[near[after]]	
 come_to_pieces	sze1tesik	dissolvor	rozpadac1_sie1	2174		U		
