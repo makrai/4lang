@@ -804,7 +804,7 @@ coagulate	megalvad	concresco	te1z1ec1	1617		U		no xml
 coal	sze1n	carbo	we1giel	2169		N	mineral, hard, black, burn, MAKE heat	
 coarse	durva	asper	szorstki	491		A	rough	
 coast	part	litus	brzeg	1946		N	land, NEXT_TO sea	
-coat	kaba1t	tunica_manicata	pl1aszcz	1213	u	N	garment, HAS sleeve, outer, garment, COVER both(shoulder), COVER waist	
+coat	kaba1t	tunica_manicata	pl1aszcz	1213	u	N	garment, HAS sleeve, outer, COVER both(shoulder), COVER waist	
 coconut	ko1kuszdio1	cocos	kokos	1369		N	fruit, large, brown, hard, HAS white (flesh), hole PART_OF, white(fluid) IN/2758 hole	
 coffee	ka1ve1	coffea	kawa	1212		N	plant HAS seed, drink, CAUSE active	
 coin	e1rme	nummus	moneta	524		N	metal, flat, circular/1294, money	
@@ -816,7 +816,7 @@ college	egyetem	universitas	uniwersytet	572	u	N	university
 colour	szi1n	colour	kolor	2207	u	N	sensation, light/739, red IS_A, green IS_A, blue IS_A	
 colour	szinez	colouro	kolorowac1	2219	u	V		
 comb	fe1su3	pecten	grzebien1	746		N	artefact, CAUSE[hair/3359[tidy]], HAS tooth	
-comb	le1p	favus	plaster	1504		N		
+comb	le1p	favus	plaster	1504		N		all xml uses are „fe1su2”, 746
 combine	vegyi1t	misceo	mieszac1	2603		V	=PAT[more], after(together)	
 come	jo2n	venio	przychodzic1	1195	u	U	move, =AGT[near[after]]	
 come_to_pieces	sze1tesik	dissolvor	rozpadac1_sie1	2174		U		
@@ -975,7 +975,7 @@ dead	holt	mortuus	niez1ywy	1076	u	A	lack(live), before(live)
 deal	alku	pactio	interes	160	u	N	agree, <secret>, <business>	
 deal	foglalkozik	contraho	zajmowac1_sie1	2776	u	V	activity	
 deal	oszt	distribuo	rozdawac1	1918	u	V		see 2779
-dear	dra1ga	carus	ukochany	484		N	good FOR	
+dear	dra1ga	carus	ukochany	484		N	good, good FOR	
 death	hala1l	mors	s1mierc1	981		N	life[after, lack]	
 debt	ado1ssa1g	aes_alienum	dl1ug	117		N	must[=POSS PAY/812]	modality
 decay	romla1s	pernicies	rozkl1ad	2041		N	material[change[slow]], health[after, lack]	
