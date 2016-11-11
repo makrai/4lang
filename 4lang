@@ -1703,7 +1703,7 @@ interest	e1rdeklo3de1s	studium	zainteresowanie	517	u	N	desire, =POSS WANT[=POSS 
 interest	kamat	usura	oprocentowanie	1220	u	N	charge/457, FOR/2782 borrow	percentage
 interesting	e1rdekes	aptus_ad_delectandos_homines	interesuja1cy	516		A	GET/1223 attention	
 international	nemzetko2zi	internationalis	mie1dzynarodowy	1787		A	AT/2744 more(nation)	
-internet	internet	#	#	3080		N	computer, system, AT/2744 world	
+internet	internet	#	#	3080		N	network, computer PART_OF, AT/2744 world	
 internet-enabled	internettel_ella1tott	#	#	3109		A	internet AT/2744	
 interrupt	megszaki1t	interrumpo	przeszkadzac1	1645		V	=AGT CAUSE[pause IN/2758]	
 into	-ba	in	do	11	u	G	in/10	
@@ -1796,7 +1796,7 @@ lawful	jogos	iustus	sprawiedliwy	1201		A	CONFORM law
 lawyer	u2gyve1d	advocatus	prawnik	2492		N		
 lay	laikus	laicus	s1wiecki	1484		A	person, practice[lack,official]	lack(profession), ND
 lazy	lusta	ignavus	leniwy	1556		A	lack(work), lack(effort)	
-lead	o1lom	plumbum	ol1o1w	1832	u	N	soft(metal)	
+lead	o1lom	plumbum	ol1o1w	1832	u	N	metal[heavy, soft]	
 lead	vezet	duco	prowadzic1	2617	u	V	=AGT CAUSE[=PAT[change]]	naive_theo: x LEAD/2617 y, y LEAD/2617 z implies x LEAD/2617 z
 leaf	faleve1l	folium	lis1c1	723		N	organ, green, flat, AT/2744 stem, PART_OF plant	
 lean	do3l	acclinor	opierac1	475		V	lack(vertical)	Longman Leaning Tower of Pisa
@@ -2721,7 +2721,7 @@ several	sok	multus	kilka	2116		A	many
 severe	szigoru1	gravis	surowy	2213	u	A	CAUSE suffer	komoly
 sew	varr	#	#	3000		V	INSTRUMENT needle, INSTRUMENT thread, =AGT CAUSE[cloth[fix]]	make or repair or fasten
 sew	varr	suo	szyc1	2588		V		
-sex	nem	sexus	pl1ec1	1780		N	male IS_A, female IS_A	
+sex	nem	sexus	pl1ec1	1780		N	FOR reproduce, male IS_A, female IS_A	
 sexual	nemi	sexualis	seksualny	1784		A	sex	derivation
 shade	a1rnyalat	umbra	odcien1	90		N	colour HAS, slight(different), slight(dark)	
 shadow	a1rny	umbra	cien1	89		N	dark (shape), object CAUSE	RG
